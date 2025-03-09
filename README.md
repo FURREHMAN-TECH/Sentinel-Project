@@ -4,8 +4,11 @@
 This repository outlines the steps to configure an alert in Microsoft Sentinel that detects multiple failed logon attempts and automatically creates an incident. Specifically, the alert triggers when more than five failed logon attempts occur within a five-minute window. This setup helps enhance security monitoring by promptly identifying potential brute-force attacks or unauthorized access attempts.
 
 Windows Security Events installed and configured
+
 ![image](https://github.com/user-attachments/assets/5d052ca0-70a3-461c-afdc-ba53e563b5a2)
+
 ![image](https://github.com/user-attachments/assets/3589bc17-8347-41d2-a62b-bd988edd6b60)
+
 ![image](https://github.com/user-attachments/assets/f1556a5c-258a-4a68-8284-7f8962ed1617)
 
 ## 1. Analytics - Schedule rule
